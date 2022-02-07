@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/The_Zest_Cafe04/app/src/main/res/drawable/ic_avatar.xml" value="0.1" />
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/The_Zest_Cafe04/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/The_Zest_Cafe04/app/src/main/res/drawable/ic_star.xml" value="0.1" />
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/The_Zest_Cafe04/app/src/main/res/layout/activity_home_screen.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/The_Zest_Cafe04/app/src/main/res/layout/offer_card.xml" value="0.22" />
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/The_Zest_Cafe04/app/src/main/res/layout/outlet_card.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/Sutej/AndroidStudioProjects/TheZestCafe/app/src/main/res/layout/activity_main.xml" value="0.2056159420289855" />
       </map>
     </option>
